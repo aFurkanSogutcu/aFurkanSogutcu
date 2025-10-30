@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="center">Hi, I’m Ahmet Furkan Söğütcü. A developer passionate about AI, web development, and cloud technologies.<br>I enjoy turning ideas into practical solutions using tools like FastAPI, React, and Azure.<br>Currently, I’m developing AI projects using Azure services, focusing on building intelligent, scalable, and well-structured systems.</p>
+
 
 ###
 
@@ -33,7 +34,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ahmet-furkan-söğütcü-2620931b5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
